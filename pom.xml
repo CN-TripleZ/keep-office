@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.keep.office</groupId>
+	<artifactId>keep-office-pom</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0.0</version>
+	<name>keep office pom</name>
+	<description>在线文档管理器</description>
+	
+	<modules>
+		<module>keep-office</module>
+		<module>keep-office-webapp</module>
+	</modules>
+</project>
